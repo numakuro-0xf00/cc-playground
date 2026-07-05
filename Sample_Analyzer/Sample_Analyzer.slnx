@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Sample_Analyzer/Sample_Analyzer.CodeFixes/Sample_Analyzer.CodeFixes.csproj" />
+  <Project Path="Sample_Analyzer/Sample_Analyzer.Package/Sample_Analyzer.Package.csproj" />
+  <Project Path="Sample_Analyzer/Sample_Analyzer.Test/Sample_Analyzer.Test.csproj" />
+  <Project Path="Sample_Analyzer/Sample_Analyzer.Vsix/Sample_Analyzer.Vsix.csproj" />
+  <Project Path="Sample_Analyzer/Sample_Analyzer/Sample_Analyzer.csproj" />
+</Solution>
